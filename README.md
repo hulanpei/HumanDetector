@@ -5,7 +5,7 @@
 
 ```
 The YOLO Object Detection Algorithm (CVPR2017最佳論文 )
-OpenCV, Image Process, Pythone
+OpenCV, Image Process, Python
 ```
 
 ## 人物數據、訓練
